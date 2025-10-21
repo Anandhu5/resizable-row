@@ -1,5 +1,5 @@
 name: resizable_row
-description: "A new Flutter package project."
+description: "A Flutter widget that provides resizable row layouts with draggable column separators for dynamic user-defined column sizing."
 version: 1.0.0
 homepage: https://github.com/Anandhu5/resizable-row
 repository: https://github.com/Anandhu5/resizable-row
